@@ -1,0 +1,80 @@
+.table1 {
+    color: red;
+    padding-bottom: 15px;
+    font-size: larger;
+}
+
+.about-paragraph {
+    font-size: larger;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.table2 {
+    width: 500px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: 100px;
+    border: 2px solid black;
+}
+
+.caption {
+    font-weight: bold;
+    font-size: larger;
+}
+
+td {
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+.growth-section {
+    border: 3px solid black;
+    background-color: lightgrey;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.intro-section {
+    background-color: lightgrey;
+    padding: 20px;
+    border: 3px solid black;
+    margin: 40px 0;
+}
+
+.about-section {
+    padding: 0;
+    border: none;
+    margin: 0;
+    float: left;
+    width: 50%;
+}
+
+img {
+    padding: 20px;
+    border: 3px solid red;
+    margin: 10px;
+}
+
+.container {
+    text-align: center;
+    margin: 5px;
+    border: 3px solid black;
+    background-color: lightgrey;
+    padding: 5px;
+    float: right;
+    width: 45%;
+}
+
+.Finn_Stuff {
+    display: inline-block;
+    text-align: left;
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+    vertical-align: top;
+}
